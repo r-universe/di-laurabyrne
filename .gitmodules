@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "DImodelsMulti"]
+	path = DImodelsMulti
+	url = https://github.com/di-laurabyrne/dimodelsmulti
+	subdir = DImodelsMulti
